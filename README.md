@@ -31,9 +31,19 @@ A basic Tetris-style game built in Java.
 
 The purpose of this repository is to demonstrate my Java learning progress and practical understanding of programming fundamentals.
 
+
 ## How to Run
 
-1. Clone the repository:
+1. Download or clone this repository:
 
 ```bash
-git clone https://github.com/angrytomm/laboratory.git
+git clone https://github.com/angrytomm/java-practice-projects.git
+```
+
+2. Open the project in IntelliJ IDEA.
+
+3. Select one of the project folders, for example `Calculator` or `Tetris`.
+
+4. Find the file that contains the `main` method.
+
+5. Click **Run** to start the project.
