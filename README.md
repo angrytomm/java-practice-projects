@@ -34,15 +34,15 @@ The purpose of this repository is to demonstrate my Java learning progress and p
 
 ## How to Run
 
-1. Download or clone this repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/angrytomm/java-practice-projects.git
 ```
 
-2. Open the project in IntelliJ IDEA.
+2. Open the project in IntelliJ IDEA or another Java IDE.
 
-3. Select one of the project folders, for example `Calculator` or `Tetris`.
+3. Choose one of the project folders, for example `Calculator`, `GameSnake` or `Tetris`.
 
 4. Find the file that contains the `main` method.
 
